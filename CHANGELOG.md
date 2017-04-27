@@ -69,7 +69,7 @@ updates to the syntax compared to `l20n` v4:
         hello-world = Hello, world!
 
   - Select expressions must now define the default variant. The whole body of
-    the expression must be intended too (we might lift this requirement in the
+    the expression must be indented too (we might lift this requirement in the
     future). See http://projectfluent.io/fluent/guide/selectors.html.
 
     Before:
